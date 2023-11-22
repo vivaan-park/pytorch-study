@@ -12,3 +12,6 @@ Thumbs.db
 # IDE-specific
 .idea/
 *.swp
+
+# Datasets
+data/
